@@ -1,0 +1,1 @@
+Web scrapping is thereby a process of extracting and collecting data from websites and storing it on a local machine or a desired database. In this process we will use beautifulsoup and requests package to do the process of scrapping a website.
